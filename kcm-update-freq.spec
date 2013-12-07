@@ -4,7 +4,7 @@ License:        GPLv3+
 Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching Update Frequency configuration
 Version:        1.0
-Release:        5
+Release:        6
 BuildArch:      noarch
 Source0:        %{name}-%{version}.tar.gz
 
